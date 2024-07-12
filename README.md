@@ -13,8 +13,6 @@ This project is a full-stack web application built with React that generates and
 ### Technologies Used
 
 * Frontend: React.js
-* Backend: (Choose your backend framework -  e.g., Node.js with Express, Python with Django)
-* Database: (Optional - if storing compliments for selection): (Choose your database - e.g., MongoDB, PostgreSQL)
 
 ### Getting Started
 
